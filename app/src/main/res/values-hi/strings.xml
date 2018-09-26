@@ -1,0 +1,105 @@
+<resources>
+
+    <string name="image_details_header">विवरण:</string>
+    <string name="image_preview_header">पूर्वावलोकन:</string>
+    <string name="loading_message">छवि अपलोड करना कृपया प्रतीक्षा करें।</string>
+
+    <string name="Report">"रिपोर्ट "</string>
+    <string name="Authority_Login">"प्राधिकरण लॉगिन "</string>
+    <string name="Dashboard">डैशबोर्ड</string>
+
+    <string name="Recent_Updates">"हाल के अद्यतन "</string>
+    <string name="cardviewlayout">"कार्ड दृश्य पाठ "</string>
+    <string name="tap_on_image_icon_to_upload_images">चित्र अपलोड करने के लिए छवि आइकन पर टैप करें</string>
+
+    <!--    Report Page     -->
+    <string name="viewmap">मानचित्र</string>
+    <string name="gallery">गेलरी</string>
+    <string name="contribute">"आप कैसे योगदान कर सकते हैं? "</string>
+    <string name="aboutministry">"मंत्रालय के बारे में "</string>
+    <string name="ngos">"गैर सरकारी संगठन "</string>
+    <string name="sharename">शेयर</string>
+    <string name="sendfeed">"प्रतिक्रिया भेजें "</string>
+    <string name="Logout">"लोग आउट "</string>
+    <string name="Report_headline">आपके अनुरोध के अनुसार एक स्वचालित संदेश अधिकारियों को उत्पन्न किया जाएगा</string>
+    <string name="Report_belowheadline">क्या समस्या / समस्याएं हैं जिन्हें आप मोटे हैं? -</string>
+    <string name="waste_dumping">कचड़े को फेकना</string>
+    <string name="Encroachment">अतिक्रमण</string>
+    <string name="RRR">"मरम्मत नवीनीकरण और बहाली की आवश्यकता "</string>
+    <string name="maps">" यहां मैप्स"</string>
+    <string name="share">" फेसबुक पर अपना योगदान साझा करें नोट: यह आपकी पहचान को प्रकट कर सकता है"</string>
+    <string name="share_below">कृपया नदी की स्थिति के लिए हमें रेटिंग देने के लिए कुछ समय दें</string>
+    <string name="rating">" रेटिंग के लिए आगे बढ़ें"</string>
+    <string name="ministry_of_water_and_river">जल संसाधन मंत्रालय और नदी पुनर्वास</string>
+    <string name="mapss">मैप्स</string>
+    <string name="visited">दौरा किया</string>
+    <string name="labour_on_work">कार्य प्रगति पर</string>
+    <string name="Completion">संपूरित</string>
+    <string name="ministry">जल संसाधन मंत्रालय, नदी विकास और गंगा रिजुवेनायन</string>
+    <string name="govt_of_india">"भारत सरकार "</string>
+    <string name="Reportalert">"रिपोर्ट !! "</string>
+    <string name="mapsdata">अपने पास की सभी समस्याओं के बारे में जानें</string>
+    <string name="timeline">टाइमलाइन</string>
+    <string name="timelinedata">समयरेखा पर लाइव अपडेट प्राप्त करें</string>
+    <string name="assesmentriver">नदियों का आकलन</string>
+    <string name="assesmentriverdata">देश की स्वच्छतम नदियों के बारे में जानें</string>
+    <string name="reportdata">एक जागरूक नागरिक बनो और नदियों के नजदीक या नजदीकी किसी भी समस्या की रिपोर्ट करके नदियों के कल्याण में योगदान करें</string>
+
+    <string name="Redirecting">रीडायरेक्ट कर रहा है</string>
+    <string name="generateotp">ओटीपी उत्पन्न करें</string>
+    <string name="Enterotp">ओटीपी दर्ज करें</string>
+
+    <!--  River Rating   -->
+    <string name="rating_heading">नदी के आधार पर नदी के दर पर उल्लेख करें</string>
+    <string name="value">मूल्य</string>
+
+
+    <string name="ministry_of_water_resources">जल संसाधन मंत्रालय</string>
+    <string name="USERNAME">उपयोगकर्ता नाम</string>
+    <string name="Password">पासवर्ड</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="dashboard_via_Login">एक प्राधिकरण नहीं! अतिथि के रूप में लॉगिन करें</string>
+
+    <string name="dialog_select_prompt">एक तस्वीर का चयन करें</string>
+    <string name="dialog_select_camera">"कैमरा "</string>
+    <string name="dialog_select_gallery">गेलरी</string>
+
+    <string name="app_name">पहचान स्लाइडर</string>
+    <string name="title_activity_welcome">होम स्क्रीन</string>
+    <string name="next">आगामी</string>
+    <string name="skip">छोड़ें</string>
+    <string name="start">समझ गया</string>
+
+    <string name="slide_1_title">" हैलो फूड!"</string>
+    <string name="slide_1_desc">अपने पसंदीदा रेस्तरां से खाना ऑर्डर करने का सबसे आसान तरीका!</string>
+
+    <string name="slide_2_title">सिनेमा की टिकटें</string>
+    <string name="slide_2_desc">अपने परिवार और दोस्तों के लिए बुक मूवी टिकट!</string>
+
+    <string name="slide_3_title">महान छूट</string>
+    <string name="slide_3_desc">"हम पेशकश हर एक सेवा पर सर्वश्रेष्ठ छूट! "</string>
+
+    <string name="slide_4_title">"दुनिया की यात्रा "</string>
+    <string name="slide_4_desc">"किसी भी परिवहन के बुक टिकट और दुनिया की यात्रा! "</string>
+
+    <string name="play_again_desc">स्वागत स्लाइडर को फिर से देखने के लिए, गोटो सेटिंग्स -> ऐप्स -> स्वागत स्लाइडर -> साफ़ डेटा</string>
+    <string name="play_again">"फिर से चालू करें "</string>
+
+    <string name="image_picker_error">उस छवि में कुछ गलत है एक अलग एक उठाओ कृपया</string>
+
+
+    <string name="action_add_favourite">पसंदीदा में जोड़ें</string>
+    <string name="action_play_next">अगला प्ले करें</string>
+    <string name="backdrop_title">संगीत से प्यार है</string>
+    <string name="backdrop_subtitle">इस सीजन में शीर्ष 20 एल्बम</string>
+    <string name="title_activity_navigation_menu">" संचालन सूची"</string>
+
+    <string name="navigation_drawer_open">नेविगेशन ड्रॉवर खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉवर को बंद करें</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">"नमस्ते रिक्त टुकड़ा "</string>
+    <string name="title_activity_user_timeline">उपयोगकर्ता टाइमलाइन</string>
+    <string name="action_settings">सेटिंग</string>
+    <string name="app_id">221239738455521</string>
+</resources>

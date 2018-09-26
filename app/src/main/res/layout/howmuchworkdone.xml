@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HowMuchWorkDone">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="3">
+    <CheckBox
+        android:id="@+id/visited"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:text="@string/visited"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_marginLeft="-34dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="23dp"
+
+
+        />
+    <CheckBox
+        android:id="@+id/labourOnwork"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textStyle="bold"
+       android:layout_gravity="center"
+        android:layout_marginTop="23dp"
+        android:text="@string/labour_on_work"
+        android:textAllCaps="true"
+
+
+
+        />
+    <CheckBox
+        android:id="@+id/completed"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textStyle="bold"
+        android:text="@string/Completion"
+        android:textAllCaps="true"
+        android:layout_marginLeft="-19dp"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="23dp"
+
+        />
+
+
+
+</LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

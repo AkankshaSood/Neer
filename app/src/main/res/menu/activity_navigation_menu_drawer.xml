@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/Report" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Timeline" />
+        <item
+            android:id="@+id/nav_timeline"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/timeline" />
+        <item
+            android:id="@+id/nav_ministry"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/aboutministry" />
+
+        <item
+            android:id="@+id/nav_contribute"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/contribute" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/sharename" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/sendfeed" />
+        </menu>
+    </item>
+
+</menu>

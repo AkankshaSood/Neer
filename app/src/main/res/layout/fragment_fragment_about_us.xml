@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.sample.cloudvision.FragmentAboutUs"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ABOUT MINISTRY"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Ministry was formed in January 1985 following the bifurcation of the then Ministry of Irrigation and Power, when the Department of Irrigation was re-constituted as the Ministry of Water Resources.In July 2014, the Ministry was renamed to “Ministry of Water Resources, River Development and Ganga Rejuvenation”, making it the National Ganga River Basin Authority for conservation, development, management, and abatement of pollution in the river Ganges and its tributaries.
+"           android:textStyle="italic"
+            style="@style/Base.DialogWindowTitleBackground.AppCompat"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HeadQuater:-"
+                android:textSize="16sp"
+                android:layout_marginLeft="21dp"
+                android:textStyle="bold"
+                android:layout_marginTop="17sp"
+                android:textColor="@color/colorPrimary"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Ministry of Water Resources, Shram Shakti Bhawan, Rafi Marg, New Delhi"
+                android:textSize="15sp"
+                android:layout_marginRight="23sp"
+                android:textStyle="normal"
+                android:textAlignment="center"
+                android:textColor="#7e0303"
+                />
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PROJECTS:-"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23dp"
+            android:layout_marginTop="21dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="The Indian Rivers Inter-link is a proposed large-scale civil engineering project that aims to effectively manage water resources in India by linking Indian rivers by a network of reservoirs and canals and so reduce persistent floods in some parts and water shortages in other parts of India.
+
+
+The Inter-link project has been split into three parts: a northern Himalayan rivers inter-link component, a southern Peninsular component and starting 2005, an intrastate rivers linking component. The project is being managed by India's National Water Development Agency (NWDA), under its Ministry of Water Resources. NWDA has studied and prepared reports on 14 inter-link projects for Himalayan component, 16 inter-link projects for Peninsular component and 37 intrastate river linking projects."
+
+            android:textColor="#FF000000"
+            android:layout_marginLeft="21dp"
+            android:layout_marginRight="21dp"
+            android:textStyle="italic"
+            android:layout_marginTop="21dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:layout_marginLeft="21dp"
+            android:text="For more Details Visit the website:-"
+            android:textStyle="italic"
+            android:textColor="#FF000000"
+            android:textSize="23dp"/>
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/govt"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:textColor="#3a87a1"
+            android:textStyle="bold"
+            android:textSize="21dp"
+            android:text="http://mowr.gov.in"
+            android:linksClickable="true"
+            android:layout_marginBottom="35dp"
+            android:autoLink="web"
+            />
+
+
+
+    </LinearLayout>
+
+</ScrollView>
+
+
